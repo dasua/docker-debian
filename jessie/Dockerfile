@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-LABEL name="Debian Jessie Docker image (Spanish - Atlantic/Canary)" \
+LABEL name="Debian Jessie Docker image (Spanish - Europe/Madrid)" \
     maintainer="j.dasua@gmail.com"
 
 ## Install base packages

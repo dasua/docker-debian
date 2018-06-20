@@ -1,6 +1,6 @@
 FROM debian:stretch
 
-LABEL name="Debian Stretch Docker image (Spanish - Atlantic/Canary)" \
+LABEL name="Debian Stretch Docker image (Spanish - Europe/Madrid)" \
     maintainer="j.dasua@gmail.com"
 
 ## Install base packages
